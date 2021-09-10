@@ -6,7 +6,7 @@ int main
 {
 
 	cout<<"aaa";
-
+	cout<<"bbb";
 	return 0;
 
 }
